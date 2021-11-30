@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-templates-tags-js","path":"/tags/microeconomics/","result":{"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/micro/"},"frontmatter":{"title":"Micro"}}}]}},"pageContext":{"tag":"microeconomics"}},"staticQueryHashes":[]}
+{"componentChunkName":"component---src-templates-tags-js","path":"/tags/microeconomics/","result":{"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/content/micro/"},"frontmatter":{"title":"Micro"}}}]}},"pageContext":{"tag":"microeconomics"}},"staticQueryHashes":[]}

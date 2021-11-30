@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-templates-tags-js","path":"/tags/incomplete/","result":{"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/land-real/"},"frontmatter":{"title":"Land"}}}]}},"pageContext":{"tag":"incomplete"}},"staticQueryHashes":[]}
+{"componentChunkName":"component---src-templates-tags-js","path":"/tags/incomplete/","result":{"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/content/land-real/"},"frontmatter":{"title":"Land"}}}]}},"pageContext":{"tag":"incomplete"}},"staticQueryHashes":[]}

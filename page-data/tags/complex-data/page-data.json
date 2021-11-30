@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-templates-tags-js","path":"/tags/complex-data/","result":{"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/what_a_racket/"},"frontmatter":{"title":"mutual"}}}]}},"pageContext":{"tag":"complex_data"}},"staticQueryHashes":[]}
+{"componentChunkName":"component---src-templates-tags-js","path":"/tags/complex-data/","result":{"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/content/what_a_racket/"},"frontmatter":{"title":"mutual"}}}]}},"pageContext":{"tag":"complex_data"}},"staticQueryHashes":[]}
