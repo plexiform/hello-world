@@ -1,1 +1,0 @@
-{"componentChunkName":"component---src-templates-tags-js","path":"/tags/cs/","result":{"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/what_a_racket/"},"frontmatter":{"title":"Mutual Recursion"}}},{"node":{"fields":{"slug":"/intro_python/"},"frontmatter":{"title":"S"}}}]}},"pageContext":{"isCreatedByStatefulCreatePages":false,"tag":"cs"}}}

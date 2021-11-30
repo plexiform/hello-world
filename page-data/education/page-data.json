@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-templates-blog-post-js","path":"/education/","result":{"data":{"markdownRemark":{"html":"","frontmatter":{"title":"Education","tags":["development_policy"]}}},"pageContext":{"isCreatedByStatefulCreatePages":false,"slug":"/education/"}}}
+{"componentChunkName":"component---src-pages-education-mdx","path":"/education/","result":{"pageContext":{"frontmatter":{"title":"Education","date":"2021-02-03T00:00:00.000Z","tags":["development_policy"],"published":true}}},"staticQueryHashes":[]}
